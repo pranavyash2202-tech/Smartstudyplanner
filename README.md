@@ -81,18 +81,18 @@ Exit : Exits the application.
 
 Example--
 
-Enter choice: 1
-Subject name: DSA
-Difficulty (1-10): 8
-Days left for exam: 5
-Credits (1-10): 4
-Enter choice: 1
-Subject name: DBMS
-Difficulty (1-10): 5
-Days left for exam: 10
-Credits (1-10): 3
-Enter choice: 4
-Total hours available to study today: 6
+•Enter choice: 1
+•Subject name: DSA
+•Difficulty (1-10): 8
+•Days left for exam: 5
+•Credits (1-10): 4
+•Enter choice: 1
+•Subject name: DBMS
+•Difficulty (1-10): 5
+•Days left for exam: 10
+•Credits (1-10): 3
+•Enter choice: 4
+•Total hours available to study today: 6
 
 The output will be the priority of each subject followed by the number of hours to spend on each subject out of the 6 hours allocated for the day.
 
