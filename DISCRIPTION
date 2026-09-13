@@ -1,0 +1,4 @@
+Smart Study Planner is a simple Java program you run from your computer's command line. 
+It helps students figure out what subjects to focus on each day. The program assigns a priority score to each subject. 
+It calculates this score based on how hard the subject is, how many days are left before the exam, and how many credits it's worth.
+Then, it divides up the study hours you have available among the subjects, giving more time to the ones with higher priority.
