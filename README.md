@@ -5,7 +5,7 @@ Smart Study Planner--
 
 A console based java application which helps students to prioritize what they need to study each day. This uses a weighted priority formula to prioritize subjects based on difficulty, days left till exams, and credits for each subject. This planner allows you create a list of your subjects, and then gives an option to view those subjects ordered by their priority (based on the weighted formula). It also allows you to allocate hours for studying for the day and calculates how many hours should be spent studying for each subject based on their priority.
 
-Features
+#Features
 •Add/remove subjects
 
 •View the priorities of all subjects
