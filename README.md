@@ -79,7 +79,8 @@ Remove Subject : Enter the name of the subject you wish to remove.
 
 Exit : Exits the application.
 
-Example
+Example--
+
 Enter choice: 1
 Subject name: DSA
 Difficulty (1-10): 8
@@ -92,6 +93,7 @@ Days left for exam: 10
 Credits (1-10): 3
 Enter choice: 4
 Total hours available to study today: 6
+
 The output will be the priority of each subject followed by the number of hours to spend on each subject out of the 6 hours allocated for the day.
 
 Notes--
